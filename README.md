@@ -1,71 +1,94 @@
-# 👋 Привет! Я Маша (Maryyyama)
-
 <div align="center">
-  
-  **Студентка специальности «Разработчик веб и мультимедийных приложений» | Начинающий Full stack-разработчик | UI/UX enthusiast**
-  
-  *📍 Астрахань | 💻 Удаленно | 🚀 В поиске стажировки*
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9A87C&center=true&vCenter=true&width=435&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;UI%2FUX+%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80;%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BA%D0%B0+4+%D0%BA%D1%83%D1%80%D1%81%D0%B0" alt="Typing SVG" />
 </div>
+
+<h1 align="center">✨ Мария (Maria) ✨</h1>
+<h3 align="center">Frontend-разработчик & UI/UX дизайнер</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Астрахань-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻-Удаленно-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀-Ищу_стажировку-ff69b4?style=flat-square" />
+</p>
 
 ---
 
 ## 🎯 Обо мне
 
-Я студентка из Астрахани, которая решила покорить IT. Учусь совмещать учёбу, самообучение и поиск первой работы. Моя цель — стать крутым специалистом и работать удаленно.
+Я студентка 4 курса специальности **«Разработчик веб и мультимедийных приложений»**.  
+Моя фишка — совмещать **дизайн в Figma** с **чистым кодом**.  
 
 - 🌱 Сейчас углубляю: **JavaScript, React**
-- 🎨 Параллельно осваиваю: **UI/UX дизайн, Figma, Photoshop, Illustrator**
-- 🗄️ Знаю базу бэкенда: **SQL, JS, PHP, Node.js, API, MongoDB**
-- 💬 Спрашивайте меня о: первых пет-проектах, сложностях в обучении, удаленке
-- ⚡ Факт обо мне: блондинка, которая ломает стереотипы и учится писать код
+- 🎨 Профессионально работаю в: **Figma, Photoshop, Illustrator**
+- 🗄️ Знаю бэкенд: **Node.js, Express, MongoDB, SQL**
+- ⚡ Факт: блондинка, которая ломает стереотипы и пишет красивый код
 
 ---
 
 ## 🛠️ Технологии и инструменты
 
-| Направление | Что использую |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Дизайн** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
-| **Инструменты** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) |
+| Направление | Технологии |
+|-------------|------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React (изучаю) |
+| **Backend** | Node.js, Express, MongoDB, SQL |
+| **Дизайн** | Figma, Photoshop, Illustrator |
+| **Инструменты** | Git, GitHub, VS Code, Postman |
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
 
 ---
 
 ## 📁 Мои проекты
 
 | Проект | Описание | Стек | Статус |
-| :--- | :--- | :--- | :--- |
-| 🔜 Monarch's Pearl | Интерактивная печатная машинка | HTML + CSS + JS | Готово |
-| 🔜 Погодный виджет | Показывает погоду по городу | JS + API | В планах |
-| 🔜 Портфолио дизайнера | Макеты в Figma + вёрстка | Figma, HTML/CSS | В процессе |
+|--------|----------|------|--------|
+| [Monarch's Pearl](https://github.com/Maryyyama/Monarchs-Pearl) | Интерактивная печатная машинка в стиле old money | HTML, CSS, JS | ✅ Готово |
+| [🌐 Живое демо](https://maryyyama.github.io/Monarchs-Pearl/) | Посмотреть в браузере | — | ✅ Работает |
+| [LinguaLab](https://github.com/Maryyyama/LinguaLab-Code) | Fullstack-платформа для изучения языков | React, Node.js, MongoDB | ✅ Готово |
+| [Макет в Figma](https://www.figma.com/design/JcOLyq64uVXBusenM40VMy/LinguaLab?node-id=113-212) | Дизайн LinguaLab  | Figma | ✅ Готово |
 
 ---
 
 ## 📫 Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maryyyamaa)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maryyyama)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emae.masulka52@mail.com)
+<p align="left">
+  <a href="https://t.me/Maryyyamaa">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Maryyyama">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:emae.masulka52@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-**Или напишите прямо здесь** — я открыта к советам, предложениям и интересным проектам!
+Я открыта к стажировкам, советам и интересным проектам. Пишите!
+---
+
+## 📊 Моя активность
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maryyyama&show_icons=true&theme=dracula&hide_title=true" width="400" />
+</p>
 
 ---
 
-## 🎓 Почему я?
+<p align="center">
+  <i>«Лучшее время начать — год назад. Второе лучшее — сейчас.»</i>
+</p>
 
- - ✅ **Самодисциплина** — учусь каждый день, даже если тяжело
- - ✅ **Знаю базу бэкенда** — могу работать над полным стеком
- - ✅ **Не боюсь ошибок** — каждая ошибка делает меня лучше
- - ✅ **Хочу расти** — ищу наставника или команду, где научусь настоящей разработке
-
----
-
-<div align="center">
-  
-  *«Лучшее время начать — год назад. Второе лучшее — сейчас.»*
-  
-  ⭐️ Если зашли в гости — поставьте звезду, мне будет приятно ⭐️
-
-</div>
+<p align="center">
+  ⭐️ Заглядывайте в гости — поставьте звезду, мне будет приятно ⭐️
+</p>
